@@ -1,0 +1,62 @@
+#navbar{
+	text-align: center;
+}
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none; /* Hace que la lista se vea en horizontal */
+}
+
+#nav li {
+	display: inline;
+}
+
+#nav li a {
+	float: left; /* Hace que el texto esté a la izquierda */
+	display: inline;
+	padding: 8px 15px; /* La distancia entre el objeto y el texto, en este caso, 8px de top y bottom, y 15px de right y left. */
+	text-decoration: none; /* Para que no salga subrayado los links */
+	font-weight: bold;
+	color: #069;
+	background-color: #f2f2f2;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+}
+
+#navhome {
+	border-left: 1px solid #ccc;
+}
+
+#nav li a:hover {
+	color: #c00;
+	background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

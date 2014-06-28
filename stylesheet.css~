@@ -1,0 +1,68 @@
+#footer { 
+	text-align: center; 
+	width: 80%;
+	margin: auto;
+	padding: 0;
+	background-color: #669999;
+	padding: 2px 15px;
+	
+}
+
+#footer ul { 
+	list-style: none; 
+}
+
+#footer ul li { 
+	display: inline;
+	
+}
+
+#footer ul li a {
+	padding: 8px 15px; /* La distancia entre el objeto y el texto, en este caso, 8px de top y bottom, y 15px de right y left. */
+	background-color: #f2f2f2;
+	border: 1px solid #ccc;
+	text-decoration: none; /* Para que no salga subrayado los links */
+	font-weight: bold;
+	color: #069;
+	font-size: 24px;
+}
+
+#footer ul li a:hover { 
+	color: #c00;
+	background-color: #fff; 
+}
+
+#actual {
+	color: #c00;
+	background-color: #fff; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
